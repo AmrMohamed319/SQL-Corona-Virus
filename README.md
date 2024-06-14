@@ -1,2 +1,14 @@
-# animated-octo-tribble
-This SQL project analyzes a comprehensive Corona Virus dataset, uncovering key insights into the pandemic's spread and impact through various queries, including data validation, trend analysis, and statistical evaluations.
+# Corona Virus Dataset SQL Project
+This project involves analyzing a dataset related to the Corona Virus using SQL queries. The dataset includes information such as the number of confirmed cases, deaths, and recoveries across various regions and dates. The analysis answers several key questions about the data, providing insights into the spread and impact of the virus.
+## Dataset
+The dataset used in this project is named Corona Virus Dataset and contains the following columns:
+
+1) Province
+2) Country/Region
+3) Latitude
+4) Longitude
+5) Date
+6) Confirmed
+7) Deaths
+8) Recovered
+
